@@ -1,0 +1,13 @@
+
+Usage: shields-ghs --owner=<owner> --repo=<repo> [options]
+
+Options:
+
+  -h,  --help                Print this message.
+  -V,  --version             Print the package version.
+       --owner owner         Repository owner.
+       --repo repo           Repository name.
+       --action action       Social action; e.g., 'star', 'fork', 'watch'. Default: 'star'.
+       --style style         Badge style. Default: 'flat'.
+       --format format       Badge format. Default: 'svg'.
+

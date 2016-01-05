@@ -1,0 +1,17 @@
+{
+	"star": {
+		"type": "stars",
+		"label": "Star",
+		"link": "stargazers"
+	},
+	"fork": {
+		"type": "forks",
+		"label": "Fork",
+		"link": "network"
+	},
+	"watch": {
+		"type": "watchers",
+		"label": "Watch",
+		"link": "watchers"
+	}
+}
